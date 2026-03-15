@@ -9,3 +9,5 @@ git branch
 git merge
 
 git issue
+
+git pull request
